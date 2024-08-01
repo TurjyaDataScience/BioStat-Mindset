@@ -1,6 +1,6 @@
 ---
 title: "Turjya Laskar"
-image: "frank.jpg"
+image: "photo.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
