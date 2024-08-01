@@ -22,14 +22,7 @@ navbar:
             href: epidemiology.html
           - text: "Research Methodology and Study Designs"
             href: research.html
-          - text: "Meta Analysis"
-            href: meta_analysis.html
-          - text: "Clinical Trials"
-            href: clinical_trials.html
-          - text: "Survival Analysis"
-            href: survival_analysis.html
-          - text: "Statistical Softwares"
-            href: softwares.html
-          - text: "Basic Biology"
-            href: biology.html
+          - text: "Sample Size and Power"
+            href: sample_size.html
+
 output: distill::distill_article

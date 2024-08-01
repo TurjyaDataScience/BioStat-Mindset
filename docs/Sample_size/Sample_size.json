@@ -1,0 +1,19 @@
+[
+  {
+    "path": "Sample_size/2024-08-01-sample-size-and-power/",
+    "title": "Sample Size and Power",
+    "description": "Welcome to our  beginning lesson on calculating sample size for research, accurately determining the sample size is a critical step in designing any study, as it ensures the reliability and validity of the research findings.",
+    "author": [
+      {
+        "name": "Turjya Laskar",
+        "url": {}
+      }
+    ],
+    "date": "2024-08-01",
+    "categories": [],
+    "contents": "\r\nIntroduction\r\nWhen conducting research on a health issues such as diabetic retinopathy, cancer, etc., it’s crucial to determine the appropriate sample size. An adequate sample size ensures that the study results are reliable and accurately represent the population.\r\nUnderstanding Population and Sample\r\nPopulation: In research terms, the population is the entire group of individuals that we are interested in studying.\r\nSample: A sample is a subset of the population selected for the actual study. Researchers collect data from this smaller group to make inferences about the entire population.\r\nFor example, Imagine researchers want to study the prevalence of diabetic retinopathy in a country. The population in this case includes all individuals in the country who have diabetes and are at risk for developing diabetic retinopathy. However, studying every single diabetic individual in the country would be impractical due to constraints in time, resources, and logistics. Therefore, the researchers decide to select a sample of 1,000 diabetic patients from various regions, age groups, and backgrounds within the country. By analyzing data from this smaller group, the researchers can make informed inferences about the prevalence of diabetic retinopathy in the entire diabetic population of the country.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-08-01T20:19:22+05:30",
+    "input_file": {}
+  }
+]
