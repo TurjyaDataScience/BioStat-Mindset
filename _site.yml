@@ -10,4 +10,26 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Lessons"
+      menu:
+          - text: "Basic Statistics"
+            href: statistics.html
+          - text: "Basic Epidemiology"
+            href: epidemiology.html
+          - text: "Research Methodology and Study Designs"
+            href: research.html
+          - text: "Meta Analysis"
+            href: meta_analysis.html
+          - text: "Clinical Trials"
+            href: clinical_trials.html
+          - text: "Survival Analysis"
+            href: survival_analysis.html
+          - text: "Statistical Softwares"
+            href: softwares.html
+          - text: "Basic Biology"
+            href: biology.html
 output: distill::distill_article

@@ -17,11 +17,11 @@ site: distill::distill_website
  
 ## Bio
 
-With a profound expertise in biostatistics and clinical research, Turjya Laskar specializes in delivering insightful analyses and innovative solutions across diverse areas including survival analysis, meta-analysis, and machine learning. Leveraging a strong background in public health, Turjya excels in applying statistical methods to unravel complex data, drive evidence-based decision-making, and contribute to advancements in medical research.
+With profound expertise in biostatistics and clinical research, I specialize in delivering insightful analyses and innovative solutions across diverse areas, including survival analysis, meta-analysis, and machine learning. Leveraging my strong background in public health, I excel in applying statistical methods to unravel complex data, drive evidence-based decision-making, and contribute to advancements in medical research.
 
-Turjya's proficiency extends across a range of statistical software and programming languages, ensuring a robust approach to data analysis and interpretation. Committed to enhancing research outcomes and improving public health strategies, Turjya brings a combination of analytical skills, domain knowledge, and a dedication to excellence in every project undertaken.
+My proficiency extends across a range of statistical software and programming languages, ensuring a robust approach to data analysis and interpretation. Committed to enhancing research outcomes and improving public health strategies, I bring a combination of analytical skills, domain knowledge, and dedication to excellence in every project I undertake.
 
-Whether you're seeking expertise in clinical trial analysis, survival data modeling, or integrating machine learning techniques into your research, Turjya Laskar offers a comprehensive and meticulous approach to meet your biostatistical needs.
+Whether you're seeking expertise in clinical trial analysis, survival data modeling, or integrating machine learning techniques into your research, I offer a comprehensive and meticulous approach to meet your biostatistical needs.
 
 ## Education
 

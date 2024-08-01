@@ -1,0 +1,20 @@
+---
+title: "Epidemiological Study Design"
+description: |
+  Designing an epidemiological study involves systematic planning to ensure the research is methodologically sound, statistically robust, and ethically appropriate. Here are the key steps and considerations
+author:
+  - name: Unknown
+date: 2024-08-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
