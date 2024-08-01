@@ -1,8 +1,9 @@
 name: "."
-title: "Biostat-Mindset"
+title: "Home"
 description: |
   Biostat-Mindset
 output_dir: "docs"
+theme: My_theme.css
 navbar:
   right:
     - text: "Home"

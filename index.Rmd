@@ -1,5 +1,5 @@
 ---
-title: "Frank Hermosillo"
+title: "Turjya Laskar"
 image: "frank.jpg"
 links:
   - label: LinkedIn
@@ -17,25 +17,24 @@ site: distill::distill_website
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+With a profound expertise in biostatistics and clinical research, Turjya Laskar specializes in delivering insightful analyses and innovative solutions across diverse areas including survival analysis, meta-analysis, and machine learning. Leveraging a strong background in public health, Turjya excels in applying statistical methods to unravel complex data, drive evidence-based decision-making, and contribute to advancements in medical research.
+
+Turjya's proficiency extends across a range of statistical software and programming languages, ensuring a robust approach to data analysis and interpretation. Committed to enhancing research outcomes and improving public health strategies, Turjya brings a combination of analytical skills, domain knowledge, and a dedication to excellence in every project undertaken.
+
+Whether you're seeking expertise in clinical trial analysis, survival data modeling, or integrating machine learning techniques into your research, Turjya Laskar offers a comprehensive and meticulous approach to meet your biostatistical needs.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Institute of Medical Sciences, BHU** | Varanasi, IN
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Msc in Bio statistics | December 2021 - December 2023
 
-**The University of California, Berkeley** | Berkeley, CA
+**Gurucharan College, Silchar** | Assam, IN
 
-B.S. in Computer Science | September 2005 - May 2009
+Bsc in Statistics | July 2017 - December 2021
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**AIIMS Gorakhpur** | External Bio statistical Consultant | May 2024 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+
