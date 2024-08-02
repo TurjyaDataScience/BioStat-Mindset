@@ -1,7 +1,7 @@
 ---
 title: "Sample Size and Power"
 description: |
-  Welcome to our  beginning lesson on calculating sample size for research, accurately determining the sample size is a critical step in designing any study, as it ensures the reliability and validity of the research findings.
+  Welcome to our  beginning lesson on calculating sample size for research. Accurately determining the sample size is a critical step in designing any study, as it ensures the reliability and validity of the research findings.
 author:
   - name: "Turjya Laskar"
 date: 2024-08-01
@@ -9,8 +9,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -19,10 +17,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 When conducting research on a health issues such as diabetic retinopathy, cancer, etc., it's crucial to determine the appropriate sample size. An adequate sample size ensures that the study results are reliable and accurately represent the population.
 
+
 ## Understanding Population and Sample
+
 -   **Population**: In research terms, the population is the entire group of individuals that we are interested in studying. 
 
 -   **Sample**: A sample is a subset of the population selected for the actual study. Researchers collect data from this smaller group to make inferences about the entire population.
 
-
 For example, Imagine researchers want to study the prevalence of diabetic retinopathy in a country. The **population** in this case includes all individuals in the country who have diabetes and are at risk for developing diabetic retinopathy. However, studying every single diabetic individual in the country would be impractical due to constraints in time, resources, and logistics. Therefore, the researchers decide to select a **sample** of 1,000 diabetic patients from various regions, age groups, and backgrounds within the country. By analyzing data from this smaller group, the researchers can make informed inferences about the prevalence of diabetic retinopathy in the entire diabetic population of the country.
+
+Now the question arises, **How many people do we need to include in our study to make sure our results are trustworthy and accurate? How does the number of participants affect our ability to find meaningful results? Can we apply our findings to a larger group beyond the study participants?** These are important questions researchers must think about when planning a study. Calculating the right sample size is crucial because it directly influences how reliable and valid the study results are. If a study has too few participants, it might not be able to detect an actual effect, leading to inaccurate conclusions. This can result in what’s known as a "false negative," where the study fails to find something that's really there. On the other hand, having too many participants can waste time, money, and resources without providing any additional useful information. By considering these questions, researchers can figure out the best number of participants needed to get meaningful results without unnecessary waste.
+
+
+## Concept of PICOT
+
+The **PICOT framework** is a useful tool in research, particularly in clinical and healthcare studies, to help structure research questions and guide study design. PICOT stands for:
+
+-   **P (Population/Patient):**   This refers to the specific group of individuals or patients you are studying. Who is the population or patient group of interest?
+-   **I (Intervention/Exposure):**    This is the treatment, exposure, or intervention being tested or studied.What is the intervention or exposure you are examining?
+-   **C (Comparison):**   This is the group or condition that the intervention or exposure is being compared against. This could be a placebo, a different treatment, or a different condition. What is the comparison or control group?
+-   **O (Outcome):**    This refers to the results or effects you are measuring in the study. Outcomes should be specific and measurable.What are the expected outcomes or results of the intervention?
+-   **T (Time):**   This specifies the duration for which the study will be conducted or the time frame for measuring outcomes.
+Example Question: What is the time frame for observing the outcomes?
+
+**Example of Using PICOT:**
+Imagine you want to study the effectiveness of a new drug for reducing high blood pressure. Using the PICOT framework, your research question might look like this:
+
+-   *P (Population)*: Adults aged 50-70 with hypertension.
+-   *I (Intervention)*: A new antihypertensive medication.
+-   *C (Comparison)*: Standard antihypertensive medication.
+-   *O (Outcome)*: Reduction in systolic and diastolic blood pressure.
+-   *T (Time)*: 6 months of treatment.
+
+**Putting It All Together:**
+"In adults aged 50-70 with hypertension (P), does a new antihypertensive medication (I) compared to a standard antihypertensive medication (C) lead to a greater reduction in blood pressure (O) over a period of 6 months (T)?"
